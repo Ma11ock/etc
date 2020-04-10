@@ -1,0 +1,16 @@
+#+TITLE: and such...
+#+AUTHOR: Ryan
+#+EMAIL: rmjxyz@gmail.com
+#+OPTIONS: num:nil
+
+This repo contains all of the same sites as Luke's plus a few more.
+
+To install
+#+BEGIN_SRC shell
+
+sudo su
+cat ips >> /etc/hosts
+
+#+END_SRC
+
+I recommend not installing this as I do not support it. Only use this if you are willing to deal any issues on your own.
